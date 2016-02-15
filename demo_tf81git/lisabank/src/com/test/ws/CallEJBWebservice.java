@@ -11,7 +11,7 @@ public class CallEJBWebservice {
 	public static void main(String args[])
 	{
 		
-		System.out.println("Ramakrishna");
+		System.out.println("PraveenaRamakrishna");
 		EJB3UserControlBeanProxy prox=new EJB3UserControlBeanProxy();
 		EJB3UserControlBean ejb3bean= prox.getEJB3UserControlBean();
 	User users[] = null;
